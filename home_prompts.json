@@ -1,0 +1,105 @@
+
+{
+  "images": [
+    {
+      "id": "home_001",
+      "title": "Cinematic Portrait",
+      "description": "A stunning cinematic portrait with natural lighting and beautifully detailed facial features.",
+      "isLocked": true,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "prompt": "A cinematic portrait with soft natural lighting, realistic skin texture, beautiful facial details, and a professional photography look.",
+      "tags": ["Portrait", "Cinematic"]
+    },
+    {
+      "id": "home_002",
+      "title": "Elegant Fashion",
+      "description": "A sophisticated editorial fashion portrait with graceful styling and premium photography aesthetics.",
+      "isLocked": false,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+      "prompt": "An elegant editorial fashion portrait with sophisticated styling, soft shadows, natural expressions, and premium fashion photography.",
+      "tags": ["Portrait", "Fashion"]
+    },
+    {
+      "id": "home_003",
+      "title": "Luxury Studio",
+      "description": "A premium studio fashion photograph featuring elegant composition and beautifully detailed textures.",
+      "isLocked": false,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+      "prompt": "A premium studio fashion photograph with professional studio lighting, detailed textures, elegant composition, and a luxury editorial aesthetic.",
+      "tags": ["Fashion", "Studio"]
+    },
+    {
+      "id": "home_004",
+      "title": "Natural Beauty",
+      "description": "A beautiful natural-light portrait with minimal styling and a calm, effortless atmosphere.",
+      "isLocked": true,
+      "created_at": "2026-11-20T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "prompt": "A beautiful natural light portrait with soft daylight, minimal styling, realistic skin details, and a calm aesthetic atmosphere.",
+      "tags": ["Portrait", "Natural"]
+    },
+    {
+      "id": "home_005",
+      "title": "Dreamy Portrait",
+      "description": "A dreamy cinematic portrait with glowing light, delicate colors, and artistic photography.",
+      "isLocked": true,
+      "created_at": "2026-11-20T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+      "prompt": "A dreamy cinematic female portrait with soft glowing light, subtle background blur, delicate colors, and artistic photography.",
+      "tags": ["Portrait", "Cinematic"]
+    },
+    {
+      "id": "home_006",
+      "title": "Modern Fashion",
+      "description": "A high-end fashion editorial with confident posing, dramatic lighting, and magazine-style aesthetics.",
+      "isLocked": false,
+      "created_at": "2026-11-21T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b",
+      "prompt": "A modern luxury fashion editorial photograph with stylish clothing, confident posing, dramatic lighting, and high-end magazine aesthetics.",
+      "tags": ["Fashion", "Editorial"]
+    },
+    {
+      "id": "home_007",
+      "title": "Beauty Campaign",
+      "description": "A close-up beauty portrait with glowing skin, elegant makeup, and premium studio lighting.",
+      "isLocked": true,
+      "created_at": "2026-11-21T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "prompt": "A close-up beauty portrait with glowing skin, soft diffused studio lighting, detailed facial features, elegant makeup, and a premium beauty campaign aesthetic.",
+      "tags": ["Portrait", "Beauty"]
+    },
+    {
+      "id": "home_008",
+      "title": "Street Fashion",
+      "description": "A stylish urban fashion editorial combining modern architecture and professional magazine photography.",
+      "isLocked": false,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b",
+      "prompt": "A high-end street fashion editorial featuring a confident model, modern urban architecture, stylish outfit, natural daylight, and professional magazine photography.",
+      "tags": ["Fashion", "Street"]
+    },
+    {
+      "id": "home_009",
+      "title": "Golden Hour",
+      "description": "A soft outdoor portrait illuminated by warm golden sunlight with a dreamy background blur.",
+      "isLocked": true,
+      "created_at": "2026-11-21T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "prompt": "A soft dreamy outdoor portrait during golden hour, warm sunlight, natural expression, creamy background blur, and realistic professional photography.",
+      "tags": ["Portrait", "Golden Hour"]
+    },
+    {
+      "id": "home_010",
+      "title": "Luxury Portrait",
+      "description": "A sophisticated studio portrait with dramatic lighting, rich tones, and elegant editorial styling.",
+      "isLocked": false,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+      "prompt": "A sophisticated luxury studio portrait with dramatic directional lighting, elegant styling, rich tones, sharp details, and an editorial photography aesthetic.",
+      "tags": ["Studio", "Luxury"]
+    }
+  ]
+}
