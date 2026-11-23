@@ -36,7 +36,7 @@
       "title": "Natural Beauty",
       "description": "A beautiful natural-light portrait with minimal styling and a calm, effortless atmosphere.",
       "isLocked": true,
-      "created_at": "2026-11-20T00:00:00",
+      "created_at": "2026-11-23T00:00:00",
       "image_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
       "prompt": "A beautiful natural light portrait with soft daylight, minimal styling, realistic skin details, and a calm aesthetic atmosphere.",
       "tags": ["Portrait", "Natural"]
