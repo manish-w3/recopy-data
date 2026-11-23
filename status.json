@@ -1,0 +1,55 @@
+
+{
+  "images": [
+    {
+      "id": "status_001",
+      "title": "Cinematic Nature",
+      "description": "A beautiful cinematic nature scene with peaceful surroundings and stunning natural scenery.",
+      "isLocked": false,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "prompt": "Create a beautiful cinematic nature status.",
+      "tags": ["Nature"]
+    },
+    {
+      "id": "status_002",
+      "title": "Golden Sunset",
+      "description": "A stunning sunset scene filled with warm golden tones and a cinematic atmosphere.",
+      "isLocked": true,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800",
+      "prompt": "Create a stunning cinematic sunset status.",
+      "tags": ["Nature"]
+    },
+    {
+      "id": "status_003",
+      "title": "Tropical Paradise",
+      "description": "A peaceful tropical beach with beautiful coastal scenery and a relaxing atmosphere.",
+      "isLocked": false,
+      "created_at": "2026-11-23T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+      "prompt": "Create a peaceful tropical beach status.",
+      "tags": ["Travel"]
+    },
+    {
+      "id": "status_004",
+      "title": "Mountain Night",
+      "description": "A breathtaking mountain night scene with a dramatic cinematic sky and peaceful surroundings.",
+      "isLocked": true,
+      "created_at": "2026-11-20T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800",
+      "prompt": "Create a cinematic mountain night status.",
+      "tags": ["Nature"]
+    },
+    {
+      "id": "status_005",
+      "title": "Golden Morning",
+      "description": "A beautiful morning landscape glowing with soft golden sunlight and natural beauty.",
+      "isLocked": false,
+      "created_at": "2026-11-21T00:00:00",
+      "image_url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800",
+      "prompt": "Create a beautiful golden morning status.",
+      "tags": ["Nature"]
+    }
+  ]
+}
