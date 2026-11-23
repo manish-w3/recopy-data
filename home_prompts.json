@@ -3,13 +3,13 @@
   "images": [
     {
       "id": "home_001",
-      "title": "Elegant Portrait",
-      "description": "A beautiful vertical portrait featuring natural beauty, realistic details, and professional photography aesthetics.",
+      "title": "Cinematic Portrait",
+      "description": "A stunning cinematic portrait with natural lighting and beautifully detailed facial features.",
       "isLocked": true,
       "created_at": "2026-11-23T00:00:00",
-      "image_url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+      "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
       "prompt": "A cinematic portrait with soft natural lighting, realistic skin texture, beautiful facial details, and a professional photography look.",
-      "tags": ["Portrait", "Photography"]
+      "tags": ["Portrait", "Cinematic"]
     },
     {
       "id": "home_002",
