@@ -3,14 +3,14 @@
   "images": [
     {
       "id": "home_001",
-      "title": "Cinematic Portrait",
+      "title": "A Cinematic Portrait",
       "description": "A stunning cinematic portrait with natural lighting and beautifully detailed facial features.",
       "isLocked": true,
       "created_at": "2026-11-23T00:00:00",
       "image_url": "https://ik.imagekit.io/w3manish/Portrait%20(9:16)/me01.webp?updatedAt=1795436414698",
       "prompt": "A cinematic portrait with soft natural lighting, realistic skin texture, beautiful facial details, and a professional photography look.",
       "tags": ["Portrait", "Cinematic"]
-    },,
+    },
     {
       "id": "home_002",
       "title": "Elegant Fashion",
