@@ -100,6 +100,17 @@
       "image_url": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
       "prompt": "A sophisticated luxury studio portrait with dramatic directional lighting, elegant styling, rich tones, sharp details, and an editorial photography aesthetic.",
       "tags": ["Studio", "Luxury"]
+    },
+
+    {
+      "id": "home_011",
+      "title": "Luxury Sports Car Photography",
+      "description": "A breathtaking luxury sports car captured with dramatic cinematic lighting and premium automotive photography.",
+      "isLocked": false,
+      "created_at": "2026-11-24T22:00:00",
+      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200&q=85",
+      "prompt": "Create an ultra-realistic premium automotive photograph of a sleek luxury sports car parked on a modern city street at night. Use dramatic cinematic lighting, glossy reflections on the car body, moody urban atmosphere, subtle neon lights, realistic shadows, professional automotive photography, 85mm lens, shallow depth of field, exceptional details and a high-end luxury advertisement aesthetic.",
+      "tags": ["Automotive", "Luxury"]
     }
   ]
 }
